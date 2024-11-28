@@ -1,0 +1,16 @@
+#csomagok
+Library/
+
+#editor
+.vscode
+
+#logok
+Logs/
+
+#bin
+*.dll
+*.so
+*.exe
+
+#ideiglenes
+Temp/
